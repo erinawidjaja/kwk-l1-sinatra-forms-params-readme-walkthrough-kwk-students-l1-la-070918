@@ -2,7 +2,7 @@
 def get_animal(animal,hat)
   if animal == "dog"
       if hat == "party-hat"
-        animal_image = ""
+        animal_image = "https://i.pinimg.com/736x/5c/29/3c/5c293cf4c57c45fe9477d73887a11eb6--birthday-party-hats-birthday-wishes.jpg"
       if hat == "top-hat"
         animal image = ""
       if hat == "bucket-hat"
