@@ -14,7 +14,7 @@ def get_animal(animal,hat)
       elsif hat == "top-hat"
         animal image = "http://cutecatsinhats.com/wp-content/uploads/2016/01/monocle-top-hat-cat.jpg"
       elsif hat == "bucket-hat"
-        animal image = "https://i.pinimg.com/originals/b7/e2/40/b7e24003f4140a13495ff7b51558b5fe.jpg"
+        animal image = "http://3.bp.blogspot.com/_HhUjJ73jZso/SBeeXiJPbaI/AAAAAAAAFCk/Jl4suaJdUkg/s400/bucket+hat5.jpg"
       end 
     end 
     return animal_img 
