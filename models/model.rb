@@ -6,7 +6,7 @@ def get_animal(animal,hat)
       if hat == "top-hat"
         animal image = "http://www.furrypartners.com/images/P/Tux_with_Tails_Top_Hat_ZW529.jpg"
       if hat == "bucket-hat"
-        animal image = ""
+        animal image = "https://i.pinimg.com/originals/b7/e2/40/b7e24003f4140a13495ff7b51558b5fe.jpg"
         
   elsif animal == "cat"
   
