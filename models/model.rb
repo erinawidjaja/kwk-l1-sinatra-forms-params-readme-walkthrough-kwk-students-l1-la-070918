@@ -12,6 +12,11 @@ def get_animal(animal,hat)
   if hat == "party-hat"
         animal_image = "https://www.thedailymeal.com/sites/default/files/story/2017/Cat%20hat%20hero_edit_0.jpg"
       elsif hat == "top-hat"
-        animal image = "http://www.furrypartners.com/images/P/Tux_with_Tails_Top_Hat_ZW529.jpg"
+        animal image = "http://cutecatsinhats.com/wp-content/uploads/2016/01/monocle-top-hat-cat.jpg"
       elsif hat == "bucket-hat"
         animal image = "https://i.pinimg.com/originals/b7/e2/40/b7e24003f4140a13495ff7b51558b5fe.jpg"
+      end 
+    end 
+    return animal_img 
+  end 
+  puts get_animal("dog", "party-hat")
