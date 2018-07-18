@@ -10,7 +10,7 @@ def get_animal(animal,hat)
       end 
   elsif animal == "cat"
   if hat == "party-hat"
-        animal_image = "https://i.pinimg.com/736x/5c/29/3c/5c293cf4c57c45fe9477d73887a11eb6--birthday-party-hats-birthday-wishes.jpg"
+        animal_image = "https://www.thedailymeal.com/sites/default/files/story/2017/Cat%20hat%20hero_edit_0.jpg"
       elsif hat == "top-hat"
         animal image = "http://www.furrypartners.com/images/P/Tux_with_Tails_Top_Hat_ZW529.jpg"
       elsif hat == "bucket-hat"
