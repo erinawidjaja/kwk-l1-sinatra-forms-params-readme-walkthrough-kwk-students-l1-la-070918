@@ -17,6 +17,6 @@ def get_animal(animal,hat)
         animal_image = "http://3.bp.blogspot.com/_HhUjJ73jZso/SBeeXiJPbaI/AAAAAAAAFCk/Jl4suaJdUkg/s400/bucket+hat5.jpg"
       end 
     end 
-    return animal_img 
+    return animal_image
   end 
   puts get_animal("dog", "party-hat")
